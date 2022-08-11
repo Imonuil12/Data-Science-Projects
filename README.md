@@ -1,1 +1,1 @@
-This Repository contains my first data science projects. 
+This Repository contains the Data Science projects I have completed
