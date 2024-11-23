@@ -10,7 +10,6 @@ This repository is a collection of **Data Science Projects**, showcasing a varie
 - **Diverse Projects**: Includes a variety of data science applications, such as:
   - Predictive modeling
   - Clustering and classification
-  - Natural language processing (NLP)
   - Time series analysis
   - Data visualization
 - **Reproducible Code**: Well-organized Jupyter Notebooks or Python scripts for easy replication and learning.
